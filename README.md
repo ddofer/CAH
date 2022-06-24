@@ -1,2 +1,6 @@
 # CAH
-Code used for Cards Against Humanity NLP paper, submitted to EMNLP. Anonymized
+## `It’s All in the Cards: Predicting Humor in a Fill-in-the-blank Party Game`
+
+Code used for Cards Against Humanity NLP paper, submitted to EMNLP. Anonymized.
+
+Data available upon request from CAH.
