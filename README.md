@@ -5,11 +5,9 @@ Dan Ofer and Dafna Shahaf
 
 Paper: https://arxiv.org/abs/2210.13016
 
-Repo contains code and results used for Cards Against Humanity NLP paper, accepted at EMNLP 2022.
+Repo contains code and results used for Cards Against Humanity NLP paper, published at [EMNLP 2022 findings](https://preview.aclanthology.org/emnlp-22-ingestion/2022.findings-emnlp.394.pdf).
 
-Data available upon request from CAH labs.
-
-
+Data available upon request from CAH labs: [https://lab.cardsagainsthumanity.com/](https://lab.cardsagainsthumanity.com/)
 ----------------------------------------------------------------------------------------------------
 
 ```
